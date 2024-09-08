@@ -7,6 +7,6 @@ roboflow:
   url: https://universe.roboflow.com/stayincam/stayincam/dataset/1
   version: 1
   workspace: stayincam
-test: C:/Users/kevoi/OneDrive/Desktop/Coding/ds-projects/StayInCam/dataset_yolo_v8/test/images
-train: C:/Users/kevoi/OneDrive/Desktop/Coding/ds-projects/StayInCam/dataset_yolo_v8/train/images
-val: C:/Users/kevoi/OneDrive/Desktop/Coding/ds-projects/StayInCam/dataset_yolo_v8/valid/images
+test: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/test/images
+train: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/valid/images
