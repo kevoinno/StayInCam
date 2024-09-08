@@ -1,0 +1,12 @@
+names:
+- Human-face
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: stayincam
+  url: https://universe.roboflow.com/stayincam/stayincam/dataset/1
+  version: 1
+  workspace: stayincam
+test: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/test/images
+train: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Stay-In-Cam/dataset_yolo_v8/valid/images
