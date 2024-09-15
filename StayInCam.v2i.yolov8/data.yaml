@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Human-eye', 'Human-face', 'Human-mouth']
+
+roboflow:
+  workspace: stayincam
+  project: stayincam
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/stayincam/stayincam/dataset/2
